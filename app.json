@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mobidonia",
-    "slug": "mobidonia",
+    "name": "netagrow",
+    "slug": "netagrow",
     "version": "3.6.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,13 +21,23 @@
         "NSLocationAlwaysUsageDescription": "This app uses the location to track the order current position",
         "NSLocationWhenInUseUsageDescription": "This app uses the location to track the order position"
       },
-      "bundleIdentifier": "com.dimovdaniel.mobidonia",
+      "bundleIdentifier": "com.netagrow.netagrowforvendors",
       "supportsTablet": false,
-      "buildNumber":"2.1"
+      "buildNumber": "1.0"
     },
     "android": {
-      "package": "com.dimovdaniel.mobidonia"
+      "package": "com.netagrow.netagrowforvendors",
+      "versionCode": 2,
+      "googleServicesFile": "./google-services.json"
     },
-    "description": ""
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "7caf507d-e570-4cc9-ace0-578abf936690"
+      }
+    }
   }
+
 }
+
+
