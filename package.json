@@ -44,7 +44,7 @@
     "prop-types": "^15.7.2",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-native": "0.69.6",
+    "react-native": "0.69.12",
     "react-native-expo-fancy-alerts": "git+https://github.com/mobidonia/react-native-expo-fancy-alerts.git",
     "react-native-gesture-handler": "~2.5.0",
     "react-native-maps": "0.31.1",
